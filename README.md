@@ -1,1 +1,2 @@
-this is my first class on github
+this is my first class 
+this is the second
